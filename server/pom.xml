@@ -57,7 +57,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${version.spring}</version>
                 <configuration>
-                    <mainClass>com.sibyg.mtls_demo.server.App</mainClass>
+                    <mainClass>com.sibyg.mtls_demo.server.Application</mainClass>
                     <finalName>server</finalName>
                 </configuration>
                 <executions>
